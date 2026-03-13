@@ -5,7 +5,7 @@ from pinecone import Pinecone, ServerlessSpec
 
 # -------------------- CONFIG --------------------
 
-PINECONE_API_KEY = "pcsk_73bFc1_A619NWNn74AbCQoQqa7XE9hW3iUQAdHt4tA5MbxgxLBhZhKWgyYBpi8s344RyWP"
+PINECONE_API_KEY = ""
 INDEX_NAME = "rag-index"
 
 # -------------------- LOAD MODELS --------------------
@@ -156,4 +156,5 @@ def main():
             st.code(context)
 
 if __name__ == "__main__":
+
     main()
