@@ -43,8 +43,8 @@ rag-application
 ### Clone Repository
 
 ```
-git clone https://github.com/your-username/rag-application.git
-cd rag-application
+git clone https://github.com/akshaysimharajula/RAG-Application-Using-Pinecone-and-GPT-2.git
+cd RAG-Application-Using-Pinecone-and-GPT-2
 ```
 
 ### Install Dependencies
