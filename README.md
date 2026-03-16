@@ -61,12 +61,12 @@ streamlit run app.py
 
 ## Usage
 
-1. Upload a Q&A `.txt` document
-2. The system converts the document into embeddings
-3. Embeddings are stored in Pinecone
-4. Enter a question related to the document
-5. The system retrieves relevant context
-6. GPT-2 generates the final answer
+1. Upload a Q&A `.txt` document.
+2. The system converts the document into embeddings.
+3. Embeddings are stored in Pinecone.
+4. Enter a question related to the document.
+5. The system retrieves relevant context.
+6. GPT-2 generates the final answer.
 
 ## Author
 
